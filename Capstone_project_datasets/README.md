@@ -15,6 +15,7 @@ How to Utilize the WordNet Data
 While specific code implementations are not included in this repository, interactors can interact with the WordNet data through various natural dialect processing libraries, such as NLTK in Python.
 Example Code Snippet:
 Here is a simple example of how to interact with WordNet utilizing the NLTK library:
+
 python
 
 import nltk
@@ -35,5 +36,6 @@ To run the project or interact with the data:
 1. Clone the repository: bash  git clone https://github.com/NadirLumin/UCSD_SB_Machine_Learning_Course.git 
 2. Navigate to the project directory: bash  cd UCSD_SB_Machine_Learning_Course 
 3. Install the necessary libraries (if you plan to run any code): bash  pip install nltk pandas
+
 Conclusion
-The Squishifier project aims to revitalize language by transforming outdated terms into vibrant and meaningful expressions. Through the integration of various datasets and natural linguistic processing techniques, it seeks to enhance communication and promote a more engaging linguistic experience.
+The Squishifier project aims to revitalize communication by transforming outdated terms into vibrant and meaningful expressions. Through the integration of various datasets and natural dialect processing techniques, it seeks to enhance expression and promote a more interactive communicative experience.
