@@ -10,7 +10,7 @@ Additionally, I have created two self-generated files:
 The project also incorporates:
 	•	WordNet Data: A lexical database that provides definitions, synonyms, and relationships among words, serving as a valuable resource for the AI model.
 Source of WordNet Data:
-	•	WordNet is developed by Princeton University. You can access the database and documentation here: WordNet.
+	•	WordNet is developed by Princeton University.
 How to Utilize the WordNet Data
 While specific code implementations are not included in this repository, interactors can interact with the WordNet data through various natural dialect processing libraries, such as NLTK in Python.
 Example Code Snippet:
