@@ -1,42 +1,45 @@
-The Squishifier
-Overview
-Idea 1: The Squishifier – Revitalizing Dialect with Themes of Regeneration and Immortality
-The Squishifier is an AI-powered tool designed to transform text by replacing outdated terms that "permeate decay" with words that "conducify" concepts like regeneration and immortality. Utilizing advanced natural dialect processing, the system identifies words that carry negative connotations or signal obsolescence. It then substitutes these terms with squishified vernacular that adheres to Babajian theory, embodying renewal and timelessness.
-Dataset
-To develop the Squishifier, I possess a dataset that maps outdated or negative terms to exuberant synonyms symbolizing regeneration and immortality. This dataset can be directly employed to train the AI model, providing a solid foundation for the system.
-Additionally, I have created two self-generated files:
-	•	Neologisms.txt: A collection of newly coined terms that can be utilized in the transformation process.
-	•	Exuberant synonyms for outdated terms.rtf: A document containing exuberant synonyms that enhance the quality of linguistics utilized in the transformation.
-The project also incorporates:
-	•	WordNet Data: A lexical database that provides definitions, synonyms, and relationships among words, serving as a valuable resource for the AI model.
-Source of WordNet Data:
-	•	WordNet is developed by Princeton University.
+# The Squishifier Data Overview
 
-How to Utilize the WordNet Data
-While specific code implementations are not included in this repository, interactors can interact with the WordNet data through various natural dialect processing libraries, such as NLTK in Python.
-Example Code Snippet:
-Here is a simple example of how to interact with WordNet utilizing the NLTK library:
+## Description of the Data
+This repository includes three main datasets that are integral to the development of the Squishifier, an AI-powered tool designed to modernize linguistic form by replacing outdated terms with vibrant, meaningful alternatives. The datasets are structured to support various aspects of natural dialect processing and linguistic transformation.
 
-python
+## Datasets
 
+### 1. Exuberant Synonyms for Outdated Terms
+- **Source**: Self-created
+- **Description**: This dataset is a collection of carefully curated synonyms designed to replace outdated or negatively connoted terms. Each word in this list embodies themes of regeneration and timelessness.
+- **Structure**: A simple text file containing a list of terms and their corresponding exuberant synonyms.
+- **Location**: `Capstone_project_datasets/Exuberant synonyms for outdated terms.rtf`
+
+### 2. Neologisms
+- **Source**: Self-created
+- **Description**: This dataset contains newly coined terms (neologisms) that can be integrated into modern communication. These terms were specifically crafted to convey innovation and relevance.
+- **Structure**: A text file listing neologisms with brief explanations of their meanings (some of the neologisms do not have definitions yet).
+- **Location**: `Capstone_project_datasets/Neologisms.txt`
+
+### 3. WordNet Data
+- **Source**: [WordNet by Princeton University](https://wordnet.princeton.edu)
+- **Description**: A comprehensive lexical database of English, which includes definitions, synonyms, and semantic relationships. This dataset serves as the backbone for understanding the structure and relationships of words.
+- **Structure**: Contains synsets (groups of synonyms) along with definitions and relationships between words.
+- **Access**: The WordNet data utilized in this project can be explored and accessed through the NLTK library in Python.
+
+## How to Access the Data
+
+### Exuberant Synonyms and Neologisms
+- **Local Files**: These files are included in the `Capstone_project_datasets` directory of this repository:
+  - `Capstone_project_datasets/Exuberant synonyms for outdated terms.rtf`
+  - `Capstone_project_datasets/Neologisms.txt`
+- **Structure**: Both files are simple text documents. The exuberant synonyms file lists terms alongside their replacements, while the neologisms file provides a comprehensive list of new terms.
+
+## How to Access the WordNet Data
+
+To utilize the WordNet data within your projects, execute the following Python commands:
+
+```python
 import nltk
-from nltk.corpus import wordnet as wn
 
-# Make sure to download WordNet
+# Download WordNet data
 nltk.download('wordnet')
-
-# Example: Get synonyms for a word
-synonyms = set()
-for syn in wn.synsets('old'):
-    for lemma in syn.lemmas():
-        synonyms.add(lemma.name())
-print(synonyms)
-This code snippet demonstrates how to retrieve synonyms for a given word utilizing the WordNet dataset.
-Installation
-To run the project or interact with the data:
-1. Clone the repository: bash  git clone https://github.com/NadirLumin/UCSD_SB_Machine_Learning_Course.git 
-2. Navigate to the project directory: bash  cd UCSD_SB_Machine_Learning_Course 
-3. Install the necessary libraries (if you plan to run any code): bash  pip install nltk pandas
-
-Conclusion
-The Squishifier project aims to revitalize communication by transforming outdated terms into vibrant and meaningful expressions. Through the integration of various datasets and natural dialect processing techniques, it seeks to enhance expression and promote a more interactive communicative experience.
+```
+Documentation
+For more information on WordNet, visit the official WordNet site: [WordNet by Princeton University](https://wordnet.princeton.edu)
