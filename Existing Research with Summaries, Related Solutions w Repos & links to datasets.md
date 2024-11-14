@@ -1,12 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww12240\viewh15840\viewkind1
-\deftab720
-\pard\pardeftab720\ri0\sl276\slmult1\partightenfactor0
-
-\f0\fs18 \cf0 ## Existing Research with Summaries, Related Solutions, and Datasets\
+## Existing Research with Summaries, Related Solutions, and Datasets\
 \
 ### Articles and Summaries\
 \
