@@ -1,5 +1,7 @@
 Existing Research with Summaries, Related Solutions, and Datasets
-Articles and Summaries
+
+Articles and Summaries:
+
 How ChatGPT Reinforces Standard Dialect Ideology
 Summary:
 This paper explores how AI tools like ChatGPT reinforce linguistic hierarchies by prioritizing Standard American English (SAE) over non-standard varieties such as African American English (AAE) and Indian English. It highlights training data bias, performance discrepancies, and stereotyping in AI outputs.
@@ -39,7 +41,7 @@ Link: https://github.com/aws-samples/amazon-sagemaker-nlp-huggingface-multilang
 
 Bias Mitigation for Large Dialect Models (Reproduced Solution)
 Description:
-Workshops and labs on detecting and mitigating bias in LDMs using techniques like Counterfactual Data Augmentation.
+Workshops and labs on detecting and mitigating bias in LDMs utilizing techniques like Counterfactual Data Augmentation.
 
 Link: https://github.com/aws-samples/bias-mitigation-for-llms
 
@@ -60,8 +62,7 @@ While the solution reduces overt biases, achieving fair representation across di
 Shared Conclusion/Analysis on What Was Learned Through This Exercise
 The reproduction confirmed that methods like CDA effectively reduce overt biases but fall short on subtler, covert biases. This underscores the need for systemic improvements in handling dialect diversity and fairness in LDMs.
 
-Insights for Our Capstone Solution:
-
+Insights for Our Capstone Solution
 Upon reviewing Bias Mitigation results, we identified limited direct applicability to the Capstone's goal of exuberifying outdated linguistics. While both solutions enhance linguistic adaptability, their focuses diverge:
 
 Bias Mitigation: Emphasizes bias reduction in dialect models.
@@ -76,8 +77,8 @@ Linguini evaluates linguistic reasoning across diverse, low-resource frameworks.
 
 Scope: 894 questions, 160 problems, 75 dialects.
 Inspired by: International Linguistic Olympiad (IOL).
-
 Key Features and Methodology
+
 Tasks:
 
 Sequence Transduction: Translating sequences between linguistic representations.
@@ -87,11 +88,12 @@ Evaluation:
 
 Tests models in zero-shot and few-shot scenarios.
 Metrics: Exact match accuracy and character-level F1 (chrF).
-Findings
+Findings:
+
 Proprietary models like Claude-3 Opus scored ~24%, outperforming open models like LLaMA-3 (~8%).
 Contextual cues were essential; removing context significantly reduced performance.
 Transliterations into non-Latin scripts confirmed reliance on contextual reasoning, not prior orthographic familiarity.
-Novel Contributions
+Novel Contributions:
 Linguini evaluates dialect-agnostic adaptability, providing insights into reasoning capabilities across varied frameworks without dataset contamination.
 
 Datasets Utilized
