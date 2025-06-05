@@ -196,6 +196,12 @@ def make_tagged_pairs(df):
             if base in provided_pos_map:
                 correct_pos = provided_pos_map[base]
                 tag_seq[i] = "OUTDATED"
+                if "user" in words and "crucial" in words:
+                    print(f"[DEBUG TRAIN] For sentence: '{sent}'")
+                    print(f"  Words: {words}")
+                    print(f"  Tag sequence: {tag_seq}")
+                    print(f"  Provided POS map: {provided_pos_map}")
+
                 print(f"[TRAIN SWAP DEBUG] (FROM DATA) idx={idx} '{w}' mapped to POS '{correct_pos}' for training.")
             else:
                 # Fallback: if you want, utilize NLTK POS to tag non-outdated terms
@@ -285,7 +291,6 @@ def swap_outdated(sentence, model, provided_pos_map=None, return_indices=False, 
     if return_indices:
         return joined, target_word_indices
     return joined
-
 class TagDataset(Dataset):
     def __init__(self, word_lists, tag_lists, tokenizer, max_len=96):
         self.word_lists, self.tag_lists = word_lists, tag_lists
