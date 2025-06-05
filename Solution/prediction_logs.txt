@@ -1,0 +1,36 @@
+2025-05-29 15:11:18,363 - Prediction - Input: The project will launch soon. | Output: 
+2025-05-29 15:27:16,588 - Prediction - Input: The project will launch soon. | Output: The project will launch soon .
+2025-05-29 17:13:23,805 - Prediction - Input: The project will launch soon. | Output: The project will launch soon.
+2025-05-29 17:18:54,695 - Prediction - Input: The user is crucial in this context. | Output: The user is crucial in this context.
+2025-05-31 07:33:08,962 - Prediction - Input: The user is crucial in this context. | Output: The user is crucial in this context.
+2025-05-31 07:34:02,854 - Prediction - Input: The user is crucial in this context. | Output: The user is crucial in this context.
+2025-05-31 07:38:49,848 - Prediction - Input: The user is crucial in this context. | Output: The user is crucial in this context.
+2025-05-31 09:16:10,305 - Prediction - Input: The user is crucial in this context. | Output: The user is crucial in this context.
+2025-05-31 09:20:48,308 - Adversarial input detected: The <extra_id_0> user <extra_id_1> is crucial in this context.
+2025-05-31 09:21:58,402 - Prediction - Input: The <extra_id_0> user <extra_id_1> is crucial in this context. | Output: The <extra_id_0> interactor <extra_id_1> is crucial in this context.
+2025-05-31 09:37:07,518 - Prediction - Input: The <extra_id_0> user <extra_id_1> will <extra_id_0> use <extra_id_1> <extra_id_0> bold <extra_id_1> <extra_id_0> foliage <extra_id_1>. | Output: The <extra_id_0> interactor <extra_id_1> will <extra_id_0> application <extra_id_1> <extra_id_0> daring <extra_id_1> <extra_id_0> verdure <extra_id_1>.
+2025-06-02 03:56:25,668 - Prediction - Input: The old user managed the foliage. | Output: The <extra_id_0> previous <extra_id_1> <extra_id_2> interactor <extra_id_3> managed the <extra_id_4> verdure <extra_id_5>.
+2025-06-02 04:05:03,210 - Prediction - Input: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod nisi eu consectetur cursus, nisl erat lacinia sapien, eu tincidunt sapien justo non sapien. Etiam eget sapien elit. Nulla facilisi.  | Output: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod nisi eu consectetur cursus, nisl erat lacinia sapien, eu tincidunt sapien justo non sapien. Etiam eget sapien elit. Nulla facilisi.
+2025-06-02 10:59:42,690 - Prediction - Input: The managered is important. | Output: The <extra_id_0> facilitator <extra_id_1> is important.
+2025-06-02 14:47:04,111 - Prediction - Input: The managered is important. | Output: The managered is important.
+2025-06-02 15:24:27,913 - Prediction - Input: Our utilizerz finished the work. | Output: Our utilizerz finished the work.
+2025-06-02 15:26:21,271 - Prediction - Input: Their daringness surprised us. | Output: Their daringness surprised us.
+2025-06-02 15:30:05,018 - Prediction - Input: He became a systemer last year. | Output: He became a systemer last year.
+2025-06-02 15:30:34,889 - Prediction - Input: Efforting is not the same as exertion. | Output: Efforting is not the same as exertion.
+2025-06-02 15:31:08,103 - Prediction - Input: The manegr handled everything. | Output: The manegr handled everything.
+2025-06-02 15:31:38,989 - Prediction - Input: She was a ver boldd leader. | Output: She was a ver boldd leader.
+2025-06-02 16:17:49,414 - Prediction - Input: The users managed the foliage. | Output: The <extra_id_0> interactors <extra_id_1> managed the <extra_id_2> verdure <extra_id_3>.
+2025-06-02 16:18:52,035 - Prediction - Input: Managers and users coordinated efforts. | Output: <extra_id_0>Facilitators <extra_id_1> and <extra_id_2> interactors <extra_id_3> coordinated <extra_id_4> exertions <extra_id_5>.
+2025-06-02 16:23:15,796 - Prediction - Input: Managers and users coordinated efforts. | Output: <extra_id_0>Facilitators <extra_id_1> and <extra_id_2> interactors <extra_id_3> coordinated <extra_id_4> exertions <extra_id_5>.
+2025-06-02 16:25:17,784 - Prediction - Input: Managers and users coordinated efforts. | Output: <extra_id_0> Facilitators <extra_id_1> and <extra_id_2> interactors <extra_id_3> coordinated <extra_id_4> exertions <extra_id_5>.
+2025-06-02 16:26:53,623 - Prediction - Input: Users were impressed by Managers. | Output: <extra_id_0> Interactors <extra_id_1> were impressed by <extra_id_2> Facilitators <extra_id_3>.
+2025-06-02 16:27:44,527 - Prediction - Input: Efforts and managers are important. | Output: <extra_id_0> Exertions <extra_id_1> and <extra_id_2> facilitators <extra_id_3> are important.
+2025-06-02 16:29:44,546 - Prediction - Input: BOLD USERS WIN. | Output: <extra_id_0> DARING <extra_id_1> <extra_id_2> INTERACTOR <extra_id_3> WIN.
+2025-06-02 16:35:40,929 - Prediction - Input: BOLD USERS WIN. | Output: <extra_id_0> DARING <extra_id_1> <extra_id_2> INTERACTORS <extra_id_3> WIN.
+2025-06-02 16:38:18,334 - Prediction - Input: The users' efforts were appreciated. | Output: The users' <extra_id_0> exertions <extra_id_1> were appreciated.
+2025-06-02 16:43:34,880 - Prediction - Input: The users' efforts were appreciated. | Output: The users' <extra_id_0> exertions <extra_id_1> were appreciated.
+2025-06-02 16:48:33,974 - Prediction - Input: The users' efforts were appreciated. | Output: The <extra_id_0> users' <extra_id_1> <extra_id_2> exertions <extra_id_3> were appreciated.
+2025-06-02 16:58:01,292 - Prediction - Input: Managers and users coordinated efforts. | Output: <extra_id_0> Facilitators <extra_id_1> and <extra_id_2> interactors <extra_id_3> coordinated <extra_id_4> exertions <extra_id_5>.
+2025-06-03 13:49:52,090 - Prediction - Input: fkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkffdfdfdfdfdfdfdfdfdfdfdfdfdfdf | Output: fkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkfkkfkfkfkfkkfffkfkffdfdfdfdfdfdfdfdfdfdfdfdfdfdf
+2025-06-03 13:54:06,435 - Prediction - Input: Managers and users' efforts were recognized. | Output: Facilitators and <extra_id_2> users' <extra_id_3> <extra_id_4> exertions <extra_id_5> were recognized.
+2025-06-03 13:57:42,218 - Prediction - Input: Managers and users' efforts were recognized. | Output: Facilitators and users' exertions were recognized.

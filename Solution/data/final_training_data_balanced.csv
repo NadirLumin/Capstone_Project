@@ -1,0 +1,68 @@
+input_sentence,output_sentence,adversarial,input_span,output_span,swap_needed,outdated_word_s_,outdated_word_s__pos
+<extra_id_0> Manage <extra_id_1> deadlines wisely.,<extra_id_0> Facilitate <extra_id_1> deadlines wisely.,FALSE,Manage,Facilitate,1,manage,verb
+Effective <extra_id_0> use <extra_id_1> of resources and <extra_id_2> manager <extra_id_3> supervision are critical to project success.,Effective <extra_id_0> application <extra_id_1> of resources and <extra_id_2> facilitator <extra_id_3> supervision are critical to project success.,FALSE,"use, manager","application, facilitator",1,"use, manager","Noun, noun"
+The <extra_id_0> voltage <extra_id_1> dropped suddenly.,The <extra_id_0> volt <extra_id_1> dropped suddenly.,FALSE,voltage,volt,1,voltage,noun
+Our <extra_id_0> utilizer <extra_id_1> leads with compassion.,Our <extra_id_0> utilizer <extra_id_1> leads with compassion.,FALSE,utilizer,utilizer,0,,
+We need to <extra_id_0> factor <extra_id_1> this strategy properly now.,We need to <extra_id_0> factor <extra_id_1> this strategy properly now.,FALSE,factor,factor,0,,
+She <extra_id_0> will <extra_id_1> complete the task.,She <extra_id_0> shall <extra_id_1> complete the task.,FALSE,will,shall,1,will,modal
+Configure the <extra_id_0> system <extra_id_1> appropriately!,Configure the <extra_id_0> system <extra_id_1> appropriately!,FALSE,system,system,0,,
+Our recent <extra_id_0> effort <extra_id_1> was discussed.,Our recent <extra_id_0> exertion <extra_id_1> was discussed.,FALSE,effort,exertion,1,effort,noun
+We need to <extra_id_0> manage <extra_id_1> this strategy properly!,We need to <extra_id_0> facilitate <extra_id_1> this strategy properly!,FALSE,manage,facilitate,1,manage,verb
+The facilitator's decision was <extra_id_0> bold <extra_id_1>.,The facilitator's decision was <extra_id_0> daring <extra_id_1>.,FALSE,bold,daring,1,bold,adj
+The <extra_id_0> reduction <extra_id_1> is crucial in this context.,The <extra_id_0> reduction <extra_id_1> is crucial in this context.,FALSE,reduction,reduction,0,,
+The <extra_id_0> system <extra_id_1> is crucial in this context.,The <extra_id_0> system <extra_id_1> is crucial in this context.,FALSE,system,system,0,,
+A canopy of <extra_id_0> verdure <extra_id_1> shielded the path.,A canopy of <extra_id_0> verdure <extra_id_1> shielded the path.,FALSE,verdure,verdure,0,,
+The <extra_id_0> agent <extra_id_1> facilitated the process while the <extra_id_2> shrinkage <extra_id_3> rate was monitored closely.,The <extra_id_0> system <extra_id_1> facilitated the process while the <extra_id_2> reduction <extra_id_3> rate was monitored closely.,FALSE,"agent, shrinkage","system, reduction",1,"agent, shrinkage","Noun, noun"
+The <extra_id_0> managered <extra_id_1> is important.,The <extra_id_0> managered <extra_id_1> is important.,TRUE,managered,managered,0,,
+We need to <extra_id_0> factor <extra_id_1> this strategy properly!,We need to <extra_id_0> factor <extra_id_1> this strategy properly!,FALSE,factor,factor,0,,
+The <extra_id_0> user <extra_id_1> is crucial in this context.,The <extra_id_0> interactor <extra_id_1> is crucial in this context.,FALSE,user,interactor,1,user,noun
+The <extra_id_0> manager <extra_id_1> does <extra_id_2> use <extra_id_3> these resources.,The <extra_id_0> facilitator <extra_id_1> does <extra_id_2> utilize <extra_id_3> these resources.,FALSE,"manager, use","facilitator, utilize",1,"manager, use","noun,verb"
+The <extra_id_0> utilizer <extra_id_1> approved the new policy.,The <extra_id_0> utilizer <extra_id_1> approved the new policy.,FALSE,utilizer,utilizer,0,,
+The project <extra_id_0> will <extra_id_1> launch soon.,The project <extra_id_0> shall <extra_id_1> launch soon.,FALSE,will,shall,1,will,modal
+The <extra_id_0> verdure <extra_id_1> was thick and lush.,The <extra_id_0> verdure <extra_id_1> was thick and lush.,FALSE,verdure,verdure,0,,
+<extra_id_0> Facilitate <extra_id_1> deadlines wisely!,<extra_id_0> Facilitate <extra_id_1> deadlines wisely!,FALSE,facilitate,facilitate,0,,
+Modern systems require a <extra_id_0> manager <extra_id_1> who can anticipate <extra_id_2> bold <extra_id_3> decisions and adapt.,Modern systems require a <extra_id_0> facilitator <extra_id_1> who can anticipate <extra_id_2> daring <extra_id_3> decisions and adapt.,FALSE,"manager, bold","facilitator, daring",1,"manager, bold","noun,adj"
+The <extra_id_0> pilferage <extra_id_1> is crucial in this context.,The <extra_id_0> larceny <extra_id_1> is crucial in this context.,FALSE,pilferage,larceny,1,pilferage,noun
+She shall <extra_id_0> facilitate <extra_id_1> the rollout next week now.,She shall <extra_id_0> facilitate <extra_id_1> the rollout next week now.,FALSE,facilitate,facilitate,0,,
+Unstable <extra_id_0> voltage <extra_id_1> can harm circuits.,Unstable <extra_id_0> volt <extra_id_1> can harm circuits.,FALSE,voltage,volt,1,voltage,noun
+<extra_id_0> Facilitate <extra_id_1> deadlines wisely.,<extra_id_0> facilitate <extra_id_1> deadlines wisely.,FALSE,facilitate,facilitate,0,,
+Reducing <extra_id_0> shrinkage <extra_id_1> and ensuring every <extra_id_2> user <extra_id_3> follows protocol is essential.,Reducing <extra_id_0> reduction <extra_id_1> and ensuring every <extra_id_2> interactor <extra_id_3> follows protocol is essential.,FALSE,"user, shrinkage","interactor, reduction",1,"user, shrinkage","Noun, noun"
+The <extra_id_0> volt <extra_id_1> dropped suddenly.,The <extra_id_0> volt <extra_id_1> dropped suddenly.,FALSE,volt,volt,0,,
+We plan to <extra_id_0> factor <extra_id_1> these assets efficiently.,We plan to <extra_id_0> factor <extra_id_1> these assets efficiently.,FALSE,factor,factor,0,,
+"To ensure security, monitoring <extra_id_0> user <extra_id_1> behavior and preventing <extra_id_2> pilferage <extra_id_3> are top priorities.","To ensure security, monitoring <extra_id_0> interactor <extra_id_1> behavior and preventing <extra_id_2> larceny <extra_id_3> are top priorities.",FALSE,"user, pilferage","interactor, larceny",1,user,"noun,noun"
+The <extra_id_0> foliagey <extra_id_1> is important.,The <extra_id_0> foliagey <extra_id_1> is important.,TRUE,foliagey,foliagey,0,,
+The <extra_id_0> interactor <extra_id_1> is crucial in this context.,The <extra_id_0> interactor <extra_id_1> is crucial in this context.,FALSE,interactor,interactor,0,,
+<extra_id_0> Manage <extra_id_1> deadlines wisely!,<extra_id_0> Facilitate <extra_id_1> deadlines wisely!,FALSE,Manage,Facilitate,1,manage,noun
+She shall <extra_id_0> facilitate <extra_id_1> the rollout next week.,She shall <extra_id_0> facilitate <extra_id_1> the rollout next week.,FALSE,facilitate,facilitate,0,,
+We need to <extra_id_0> facilitate <extra_id_1> this strategy properly.,We need to <extra_id_0> facilitate <extra_id_1> this strategy properly.,FALSE,facilitate,facilitate,0,,
+The <extra_id_0> will <extra_id_1> to improve and reduce <extra_id_2> shrinkage <extra_id_3> is evident in the team's <extra_id_3> efforts <extra_id_4>.,The <extra_id_0> energy <extra_id_1> to improve and reduce <extra_id_2> reduction <extra_id_3> is evident in the team's <extra_id_3> exertions <extra_id_4>.,FALSE,"will, shrinkage, efforts","energy, reduction, exertions",1,"will, shrinkage, efforts","Noun,noun,noun"
+Our recent <extra_id_0> oldy <extra_id_1> was discussed.,Our recent <extra_id_0> oldy <extra_id_1> was discussed.,TRUE,oldy,oldy,0,,
+The <extra_id_0> managery <extra_id_1> is important.,The <extra_id_0> managery <extra_id_1> is important.,TRUE,managery,managery,0,,
+The <extra_id_0> foliageed <extra_id_1> is important.,The <extra_id_0> foliageed <extra_id_1> is important.,TRUE,foliageed,foliageed,0,,
+Each <extra_id_0> system <extra_id_1> processes input separately.,Each <extra_id_0> system <extra_id_1> processes input separately.,FALSE,system,system,0,,
+Unstable <extra_id_0> volt <extra_id_1> can harm circuits.,Unstable <extra_id_0> volt <extra_id_1> can harm circuits.,FALSE,volt,volt,0,,
+The <extra_id_0> manager <extra_id_1> is going to <extra_id_2> use <extra_id_3> the <extra_id_4> voltage <extra_id_5>.,The <extra_id_0> facilitator <extra_id_1> is going to <extra_id_2> utilize <extra_id_3> the <extra_id_4> volt <extra_id_5>.,FALSE,"manager, use, voltage","facilitator, utilize, volt",1,"manager, use, voltage","noun,verb,noun"
+She shall <extra_id_0> manage <extra_id_1> the rollout next week.,She shall <extra_id_0> facilitate <extra_id_1> the rollout next week.,FALSE,manage,facilitate,1,manage,noun
+We <extra_id_0> will <extra_id_1> succeed with <extra_id_2>  effort <extra_id_3>.,We <extra_id_0> shall <extra_id_1> succeed with <extra_id_2>  exertion <extra_id_3>.,FALSE,will,shall,1,will,modal
+We need to <extra_id_0> manage <extra_id_1> this strategy properly.,We need to <extra_id_0> facilitate <extra_id_1> this strategy properly.,FALSE,manage,facilitate,1,manage,verb
+Configure the <extra_id_0> agent <extra_id_1> appropriately!,Configure the <extra_id_0> system <extra_id_1> appropriately!,FALSE,agent,system,1,agent,noun
+High <extra_id_0> voltage <extra_id_1> and increased <extra_id_2> shrinkage <extra_id_3> were indicators of system failure.,High <extra_id_0> volt <extra_id_1> and increased <extra_id_2> reduction <extra_id_3> were indicators of system failure.,FALSE,"voltage, shrinkage","volt, reduction",1,"voltage, shrinkage","noun,noun"
+The <extra_id_0> agent <extra_id_1> is crucial in this context.,The <extra_id_0> system <extra_id_1> is crucial in this context.,FALSE,agent,system,1,agent,noun
+A canopy of <extra_id_0> foliage <extra_id_1> shielded the path.,A canopy of <extra_id_0> verdure <extra_id_1> shielded the path.,FALSE,foliage,verdure,1,foliage,noun
+She shall <extra_id_0> manage <extra_id_1> the rollout next week now.,She shall <extra_id_0> facilitate <extra_id_1> the rollout next week now.,FALSE,manage,facilitate,1,manage,verb
+Configure the <extra_id_0> agent <extra_id_1> appropriately.,Configure the <extra_id_0> system <extra_id_1> appropriately.,FALSE,agent,system,1,agent,noun
+The <extra_id_0> user <extra_id_1> is crucial in this context now.,The <extra_id_0> interactor <extra_id_1> is crucial in this context now.,FALSE,user,interactor,1,user,noun
+The <extra_id_0> previous <extra_id_1> car was slow but reliable.,The <extra_id_0> previous <extra_id_1> car was slow but reliable.,FALSE,previous,previous,0,,
+Detecting <extra_id_0> old <extra_id_1> software and preventing <extra_id_2> shrinkage <extra_id_3> are key maintenance tasks.,Detecting <extra_id_0> previous <extra_id_1> software and preventing <extra_id_2> reduction <extra_id_3> are key maintenance tasks.,FALSE,"old, shrinkage","previous, reduction",1,"old, shrinkage","adj,noun"
+The <extra_id_0> userr <extra_id_1> is important.,The <extra_id_0> userr <extra_id_1> is important.,TRUE,userr,userr,0,,
+<extra_id_0> Foliage <extra_id_1> covered the forest floor.,<extra_id_0> Verdure <extra_id_1> covered the forest floor.,FALSE,Foliage,Verdure,1,foliage,noun
+The <extra_id_0> larceny <extra_id_1> is crucial in this context.,The <extra_id_0> larceny <extra_id_1> is crucial in this context.,FALSE,larceny,larceny,0,,
+We need to <extra_id_0> facilitate <extra_id_1> this strategy properly!,We need to <extra_id_0> facilitate <extra_id_1> this strategy properly!,FALSE,facilitate,facilitate,0,,
+We can't <extra_id_0> facilitate <extra_id_1> everything alone.,We can't <extra_id_0> facilitate <extra_id_1> everything alone.,FALSE,facilitate,facilitate,0,,
+The <extra_id_0> foliage <extra_id_1> was thick and lush.,The <extra_id_0> verdure <extra_id_1> was thick and lush.,FALSE,foliage,verdure,1,foliage,noun
+Many <extra_id_0> users <extra_id_1> tried the <extra_id_2> pilferagee <extra_id_3>.,Many <extra_id_0> interactors <extra_id_1> tried the <extra_id_2> pilferagee <extra_id_3>.,TRUE,"users, pilferagee","interactors, pilferagee",1,users,noun
+Continuous training helps every <extra_id_0> user <extra_id_1> to adapt to <extra_id_2> shrinkage <extra_id_3> in dynamic environments.,Continuous training helps every <extra_id_0> interactor <extra_id_1> to adapt to <extra_id_2> reduction <extra_id_3> in dynamic environments.,FALSE,"user, shrinkage","interactor, reduction",1,"user, shrinkage","noun,noun"
+The <extra_id_0> old <extra_id_1> car was slow but reliable.,The <extra_id_0> previous <extra_id_1> car was slow but reliable.,FALSE,old,previous,1,old,adj
+The facilitator's decision was <extra_id_0> daring <extra_id_1>.,The facilitator's decision was <extra_id_0> daring <extra_id_1>.,FALSE,daring,daring,0,,
+There's <extra_id_0> factor <extra_id_1> for this design in other fields now.,There's <extra_id_0> factor <extra_id_1> for this design in other fields now.,FALSE,factor,factor,0,,
+We need to <extra_id_0> factor <extra_id_1> this strategy properly.,We need to <extra_id_0> factor <extra_id_1> this strategy properly.,FALSE,factor,factor,0,,
